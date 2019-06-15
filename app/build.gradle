@@ -13,7 +13,7 @@ android {
 
     defaultConfig {
         applicationId "com.google.firebase.udacity.friendlychat"
-        minSdkVersion 16
+        minSdkVersion 22
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
